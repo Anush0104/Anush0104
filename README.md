@@ -3,8 +3,7 @@
 - 🩷I'm a aspiring Frontend Developer
 - 💯Passionate about web development with a keen interest in frontend technologies.
 - 🖥️ I have experience in building projects using HTML, CSS, and JavaScript.
-- 💪Currently honing my skills and working on various web development projects.
-- 
+- 💪Currently honing my skills and working on various web development projects. 
 
 <!---
 Anush0104/Anush0104 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
