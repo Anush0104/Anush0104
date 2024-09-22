@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Anush0104
-- 👀 I’m a second-Year Engineering Student 
 - 🩷I'm a aspiring Frontend Developer
 - 💯Passionate about web development with a keen interest in frontend technologies.
 - 🖥️ I have experience in building projects using HTML, CSS, and JavaScript.
